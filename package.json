@@ -1,0 +1,23 @@
+{
+  "name": "logicaexercicos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduNetoCrT/LogicaExercicos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduNetoCrT/LogicaExercicos/issues"
+  },
+  "homepage": "https://github.com/EduNetoCrT/LogicaExercicos#readme",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}
